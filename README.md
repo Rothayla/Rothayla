@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou a Thayla (Viruz) 👋
 
-<!--
-**Rothayla/Rothayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de ADS na UNICID, sou apaixonada por tecnologia.
+Atualmente, estou aprendendo e desenvolvendo projetos em Java, python, HTML e CSS
 
-Here are some ideas to get you started:
+🚀Linguagens que estudo:
+HTML | CSS | Javascript
+Python | Java
+Git | Banco de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Onde me encontrar
+Linkedin: Thayla Rosário
+Email: Reservasaturn@gmail.com
+
